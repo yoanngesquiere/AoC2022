@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Day9 day9 = new Day9();
-        day9.executePart2();
+        Day11 day11 = new Day11();
+        day11.executePart2();
     }
 }
